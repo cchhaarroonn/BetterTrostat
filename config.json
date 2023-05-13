@@ -1,0 +1,10 @@
+{
+	"client_id": "your_id_here",
+	"target_check" : true,
+	"live_title_check": true,
+	"category_check": true,
+	"followers_check": true,
+	"current_viewers_check": true,
+	"subscriber_check": true,
+	"is_live_check": true
+}
